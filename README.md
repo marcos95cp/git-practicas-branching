@@ -1,2 +1,3 @@
-# git-practicas-branching
-Repositorio para practicas
+# git-practicas
+git-practicas
+Flujo task a master
